@@ -1,0 +1,11 @@
+SOLUCIONAR ESTE ERROR :
+
+Please install `face_recognition_models` with this command before using `face_recognition`: 
+
+SOLUCION: pip install setuptools 
+
+
+
+    
+
+
